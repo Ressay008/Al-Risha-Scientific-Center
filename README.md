@@ -85,7 +85,7 @@ Then open:
 
 © 2019 **Al Risha Scientific Center**. All rights reserved.
 
-This repository is maintained under the project spirit of **[The RessWitchers / Smytk]**.
+This repository is maintained under the project spirit of **[The RessWitchers / RESSAY]**.
 
 ---
 
